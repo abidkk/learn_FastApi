@@ -4,6 +4,7 @@ FastApi learning step by step
 
 # installation
 pip install fastapi
+
 pip install "uvicorn[standard]"
 
 
